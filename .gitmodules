@@ -34,3 +34,6 @@
 [submodule ".vim/bondle/vim-snipmate"]
 	path = .vim/bondle/vim-snipmate
 	url = https://github.com/garbas/vim-snipmate.git
+[submodule ".vim/bondle/vim-surround"]
+	path = .vim/bondle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
