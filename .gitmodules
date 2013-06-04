@@ -28,3 +28,6 @@
 [submodule ".vim/bondle/vim-less"]
 	path = .vim/bondle/vim-less
 	url = https://github.com/groenewege/vim-less.git
+[submodule ".vim/bondle/vim-powerline"]
+	path = .vim/bondle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
