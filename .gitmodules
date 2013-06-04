@@ -4,3 +4,6 @@
 [submodule ".vim/bondle/jquery.vim"]
 	path = .vim/bondle/jquery.vim
 	url = https://github.com/nono/jquery.vim.git
+[submodule ".vim/bondle/mark.vim"]
+	path = .vim/bondle/mark.vim
+	url = https://github.com/mbriggs/mark.vim.git
