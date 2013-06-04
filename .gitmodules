@@ -10,3 +10,6 @@
 [submodule ".vim/bondle/nerdtree"]
 	path = .vim/bondle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bondle/snipmate-snippets"]
+	path = .vim/bondle/snipmate-snippets
+	url = https://github.com/jyn/snipmate-snippets.git
