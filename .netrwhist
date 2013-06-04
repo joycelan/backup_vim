@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/root/newpatrick/user/Banshee/resource/jquery/ui'
-let g:netrw_dirhist_2='/root/.vim'
-let g:netrw_dirhist_3='/root/nr8401-11012/user/Banshee/nr/settings/alarm/general/create_wizard'
-let g:netrw_dirhist_4='/root/newpatrick/user/Banshee/nr/settings'
-let g:netrw_dirhist_5='/root/blue.vim/.vim/bundle/ctrlp.vim/.git'
-let g:netrw_dirhist_6='/root/git-file/backup_vim/.git'
