@@ -22,3 +22,6 @@
 [submodule ".vim/bondle/vim-javascript"]
 	path = .vim/bondle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule ".vim/bondle/vim-jst"]
+	path = .vim/bondle/vim-jst
+	url = https://github.com/briancollins/vim-jst.git
