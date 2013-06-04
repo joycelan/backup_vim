@@ -7,3 +7,6 @@
 [submodule ".vim/bondle/mark.vim"]
 	path = .vim/bondle/mark.vim
 	url = https://github.com/mbriggs/mark.vim.git
+[submodule ".vim/bondle/nerdtree"]
+	path = .vim/bondle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
