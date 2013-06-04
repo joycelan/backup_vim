@@ -19,3 +19,6 @@
 [submodule ".vim/bondle/vim-addon-mw-utils"]
 	path = .vim/bondle/vim-addon-mw-utils
 	url = https://github.com/vim-scripts/vim-addon-mw-utils.git
+[submodule ".vim/bondle/vim-javascript"]
+	path = .vim/bondle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
