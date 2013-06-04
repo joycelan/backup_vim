@@ -25,3 +25,6 @@
 [submodule ".vim/bondle/vim-jst"]
 	path = .vim/bondle/vim-jst
 	url = https://github.com/briancollins/vim-jst.git
+[submodule ".vim/bondle/vim-less"]
+	path = .vim/bondle/vim-less
+	url = https://github.com/groenewege/vim-less.git
