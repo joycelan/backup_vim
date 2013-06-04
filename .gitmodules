@@ -1,3 +1,6 @@
 [submodule ".vim/bondle/ctrlp.vim"]
 	path = .vim/bondle/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
+[submodule ".vim/bondle/jquery.vim"]
+	path = .vim/bondle/jquery.vim
+	url = https://github.com/nono/jquery.vim.git
